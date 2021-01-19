@@ -1,0 +1,21 @@
+---
+title: "Welcome!"
+image: "logan_gaviota.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: YouTube
+    url: "https://youtube.com/"
+  - label: ORCID id
+    url: "https://orcid.org/0000-0002-2119-2721"
+  - label: Github
+    url: "https://github.com/LoganKozal"
+  - label: Email
+    url: "mailto:logankozal@ucsb.edu"
+output:
+  postcards::onofre
+site: distill::distill_website
+---
+ 
+I am a PhD candidate in Ecology, Evolution, and Marine Biology at UC Santa Barbara. I am passionate about global change physiology, aquaculture, and STEM education!
